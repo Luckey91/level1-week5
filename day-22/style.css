@@ -1,0 +1,14 @@
+header {
+    font-decoration: wavy;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}   
+p {
+    font-family: times new roman, sans-serif;
+    font-size: 16px;    
+    text-decoration: underline;
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    }
